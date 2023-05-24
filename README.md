@@ -11,7 +11,7 @@ It's just some basic array manipulation with:
 
 - Search
 
-- Sort(timSort algorithm)
+- Sort (timSort algorithm)
 
 It's practice for making an array behaving like
 a linkedList<T> but for numbers in this case.
