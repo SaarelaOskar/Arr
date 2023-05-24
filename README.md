@@ -1,6 +1,8 @@
 # Arr
 
-It's just some basic array manipulation with:
+It's just some basic array manipulation with
+
+
 :Grow
 :Shrink
 :Add
